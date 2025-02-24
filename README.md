@@ -11,9 +11,9 @@ https://github.com/Merrelltejero21
 
 ## Algorithm and Tools:
 * Natural Language Processing (NLP)
-    1. Spacy
-    2. Jaccard Similarity
-    3. Cosine Similarity
+    * Spacy
+    * Jaccard Similarity
+    * Cosine Similarity
 * PyQt6
 
 ## Installation
